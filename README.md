@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm Dinakar.
+
+I'm a software engineer focused on:
+- backend systems and developer tooling
+- reliability, security-by-default, and operational correctness
+- practical use of LLM-based tools in engineering workflows
+
+Background includes building and operating large-scale production systems.
+
+Currently contributing to open-source and learning maintainership best practices.
 
 <!--
 **dinakars777/dinakars777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
