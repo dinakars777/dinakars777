@@ -2,8 +2,8 @@
 I'm Dinakar.
 
 <p align="left">
-  <a href="https://x.com/sdinakar7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="X (Twitter)"></a>
-  <a href="https://www.linkedin.com/in/dinakar-sarbada-4a39b733/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/sdinakar7"><img src="https://img.shields.io/badge/-%40sdinakar7-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/dinakar-sarbada-4a39b733/"><img src="https://img.shields.io/badge/-Dinakar%20Sarbada-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 I'm a software engineer focused on:
