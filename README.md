@@ -1,6 +1,11 @@
 ## Hi there 👋
 I'm Dinakar.
 
+<p align="left">
+  <a href="https://x.com/sdinakar7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://www.linkedin.com/in/dinakar-sarbada-4a39b733/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 I'm a software engineer focused on:
 - backend systems and developer tooling
 - reliability, security-by-default, and operational correctness
