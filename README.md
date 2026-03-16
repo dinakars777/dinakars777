@@ -23,6 +23,7 @@ I recently sprinted to design, develop, and publish **8 complete open-source pro
 
 ### 🛠️ Developer CLI Tools
 * **[api-ping](https://github.com/dinakars777/api-ping)** [![npm version](https://img.shields.io/npm/v/@dinakars777/api-ping.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/api-ping) ⚡️: A lightning-fast, beautiful CLI tool to hit API endpoints, calculate response timings, and syntax-highlight JSON.
+* **[cache-llm](https://github.com/dinakars777/cache-llm)** [![npm version](https://img.shields.io/npm/v/@dinakars777/cache-llm.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cache-llm) 🧠: A blazing fast local proxy server that intercepts your outgoing LLM API calls and caches them to save you money during agent development.
 * **[cmd-rescue](https://github.com/dinakars777/cmd-rescue)** [![npm version](https://img.shields.io/npm/v/@dinakars777/cmd-rescue.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cmd-rescue) 🛟: An AI-powered CLI wrapper that automatically diagnoses and fixes failing terminal commands in real-time.
 * **[blackhole](https://github.com/dinakars777/blackhole)** [![npm version](https://img.shields.io/npm/v/@dinakars777/blackhole.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/blackhole) 🕳️: An interactive CLI utility to scan for and safely delete massive, unused `node_modules` folders to reclaim your disk space.
 * **[env-doctor](https://github.com/dinakars777/env-doctor)** [![npm version](https://img.shields.io/npm/v/@dinakars777/env-doctor.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/env-doctor) 🩺: An interactive tool to instantly diagnose, fix, and sync missing local environment variables from a `.env.example` file.
@@ -30,6 +31,7 @@ I recently sprinted to design, develop, and publish **8 complete open-source pro
 * **[standup-hero](https://github.com/dinakars777/standup-hero)** [![npm version](https://img.shields.io/npm/v/@dinakars777/standup-hero.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/standup-hero) 🦸‍♂️: A CLI that analyzes your local git history to automatically generate perfect daily stand-up notes in seconds.
 
 ### 🌐 Micro-SaaS & Frontend
+* **[arch-to-code](https://github.com/dinakars777/arch-to-code)** 📐: A visual drag-and-drop web application that lets you draw cloud architecture graphs and instantly converts them into HashiCorp Terraform using OpenAI.
 * **[code-snap](https://github.com/dinakars777/code-snap)** 📸: A gorgeously styled, client-side React + Vite web application to instantly turn messy code snippets into beautiful, high-res PNGs. 
 * **[readme-forge](https://github.com/dinakars777/readme-forge)** 🧰: A beautiful, visual drag-and-drop workspace that instantly generates pixel-perfect GitHub `README.md` files.
 
