@@ -22,11 +22,11 @@ Currently contributing to open-source and learning maintainership best practices
 I recently sprinted to design, develop, and publish **8 complete open-source projects** from scratch, exploring micro-SaaS, CLI utilities, and core UI libraries:
 
 ### 🛠️ Developer CLI Tools
-* **[api-ping](https://github.com/dinakars777/api-ping)** ⚡️: A lightning-fast, beautiful CLI tool to hit API endpoints, calculate response timings, and syntax-highlight JSON.
-* **[blackhole](https://github.com/dinakars777/blackhole)** 🕳️: An interactive CLI utility to scan for and safely delete massive, unused `node_modules` folders to reclaim your disk space.
-* **[env-doctor](https://github.com/dinakars777/env-doctor)** 🩺: An interactive tool to instantly diagnose, fix, and sync missing local environment variables from a `.env.example` file.
-* **[port-sniper](https://github.com/dinakars777/port-sniper)** 🎯: A blazingly fast CLI to aggressively identify and terminate rogue local processes hogging development ports.
-* **[standup-hero](https://github.com/dinakars777/standup-hero)** 🦸‍♂️: A CLI that analyzes your local git history to automatically generate perfect daily stand-up notes in seconds.
+* **[api-ping](https://github.com/dinakars777/api-ping)** [![npm version](https://img.shields.io/npm/v/@dinakars777/api-ping.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/api-ping) ⚡️: A lightning-fast, beautiful CLI tool to hit API endpoints, calculate response timings, and syntax-highlight JSON.
+* **[blackhole](https://github.com/dinakars777/blackhole)** [![npm version](https://img.shields.io/npm/v/@dinakars777/blackhole.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/blackhole) 🕳️: An interactive CLI utility to scan for and safely delete massive, unused `node_modules` folders to reclaim your disk space.
+* **[env-doctor](https://github.com/dinakars777/env-doctor)** [![npm version](https://img.shields.io/npm/v/@dinakars777/env-doctor.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/env-doctor) 🩺: An interactive tool to instantly diagnose, fix, and sync missing local environment variables from a `.env.example` file.
+* **[port-sniper](https://github.com/dinakars777/port-sniper)** [![npm version](https://img.shields.io/npm/v/@dinakars777/port-sniper.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/port-sniper) 🎯: A blazingly fast CLI to aggressively identify and terminate rogue local processes hogging development ports.
+* **[standup-hero](https://github.com/dinakars777/standup-hero)** [![npm version](https://img.shields.io/npm/v/@dinakars777/standup-hero.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/standup-hero) 🦸‍♂️: A CLI that analyzes your local git history to automatically generate perfect daily stand-up notes in seconds.
 
 ### 🌐 Micro-SaaS & Frontend
 * **[code-snap](https://github.com/dinakars777/code-snap)** 📸: A gorgeously styled, client-side React + Vite web application to instantly turn messy code snippets into beautiful, high-res PNGs. 
