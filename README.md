@@ -23,6 +23,7 @@ I recently sprinted to design, develop, and publish **8 complete open-source pro
 
 ### 🛠️ Developer CLI Tools
 * **[api-ping](https://github.com/dinakars777/api-ping)** [![npm version](https://img.shields.io/npm/v/@dinakars777/api-ping.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/api-ping) ⚡️: A lightning-fast, beautiful CLI tool to hit API endpoints, calculate response timings, and syntax-highlight JSON.
+* **[cmd-rescue](https://github.com/dinakars777/cmd-rescue)** [![npm version](https://img.shields.io/npm/v/@dinakars777/cmd-rescue.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cmd-rescue) 🛟: An AI-powered CLI wrapper that automatically diagnoses and fixes failing terminal commands in real-time.
 * **[blackhole](https://github.com/dinakars777/blackhole)** [![npm version](https://img.shields.io/npm/v/@dinakars777/blackhole.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/blackhole) 🕳️: An interactive CLI utility to scan for and safely delete massive, unused `node_modules` folders to reclaim your disk space.
 * **[env-doctor](https://github.com/dinakars777/env-doctor)** [![npm version](https://img.shields.io/npm/v/@dinakars777/env-doctor.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/env-doctor) 🩺: An interactive tool to instantly diagnose, fix, and sync missing local environment variables from a `.env.example` file.
 * **[port-sniper](https://github.com/dinakars777/port-sniper)** [![npm version](https://img.shields.io/npm/v/@dinakars777/port-sniper.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/port-sniper) 🎯: A blazingly fast CLI to aggressively identify and terminate rogue local processes hogging development ports.
@@ -33,7 +34,7 @@ I recently sprinted to design, develop, and publish **8 complete open-source pro
 * **[readme-forge](https://github.com/dinakars777/readme-forge)** 🧰: A beautiful, visual drag-and-drop workspace that instantly generates pixel-perfect GitHub `README.md` files.
 
 ### 💎 Core Ecosystems
-* **[react-glass-ui](https://github.com/dinakars777/react-glass-ui)**: A meticulously crafted, reusable React UI component library focusing entirely on the modern Glassmorphism aesthetic, bundled via Vite.
+* **[react-glass-ui](https://github.com/dinakars777/react-glass-ui)** [![npm version](https://img.shields.io/npm/v/@dinakars777/react-glass-ui.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/react-glass-ui): A meticulously crafted, reusable React UI component library focusing entirely on the modern Glassmorphism aesthetic, bundled via Vite.
 
 <!--
 **dinakars777/dinakars777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
