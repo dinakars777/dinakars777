@@ -22,8 +22,8 @@ Currently contributing to open-source and learning maintainership best practices
 I recently sprinted to design, develop, and publish **9 complete open-source projects** from scratch, exploring AI-native infrastructure, CLI utilities, and core UI libraries:
 
 ### 🌟 Featured Projects
-* **[neuro-forge](https://github.com/dinakars777/neuro-forge)** [![npm version](https://img.shields.io/npm/v/@dinakars777/neuro-forge.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/neuro-forge) 🧠🔨: The Ultimate AI Dev Context Compressor. Instantly gather, compress, and inject your active working files natively into your OS clipboard to send directly to ChatGPT/Claude.
 * **[create-nexus](https://github.com/dinakars777/create-nexus)** [![npm version](https://img.shields.io/npm/v/@dinakars777/create-nexus.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/create-nexus) 🏗️🤖: The Ultimate Agent-Native Boilerplate Generator. Scaffolds a high-density, strictly-typed environment (Next.js, Hono, Drizzle, Zod) equipped with a built-in Context Control Plane explicitly designed to govern AI coding agents without hallucinations.
+* **[neuro-forge](https://github.com/dinakars777/neuro-forge)** [![npm version](https://img.shields.io/npm/v/@dinakars777/neuro-forge.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/neuro-forge) 🧠🔨: The Ultimate AI Dev Context Compressor. Instantly gather, compress, and inject your active working files natively into your OS clipboard to send directly to ChatGPT/Claude.
 
 ### 🛠️ Developer CLI Tools
 * **[repo-whisperer](https://github.com/dinakars777/repo-whisperer)** [![npm version](https://img.shields.io/npm/v/@dinakars777/repo-whisperer.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/repo-whisperer) 🪄: An intelligent CLI that automatically scans a repository's DNA to generate the perfect flawless `.cursorrules` AI instruction manual.
