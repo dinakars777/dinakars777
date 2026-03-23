@@ -75,6 +75,7 @@ Visual drag-and-drop workspace for generating pixel-perfect GitHub README files.
 
 | Tool | Description | Downloads |
 |------|-------------|-----------|
+| **[git-time-machine](https://github.com/dinakars777/git-time-machine)** 🕰️ | Undo ANY git mistake in 3 seconds with a beautiful TUI. Makes git reflog actually usable | [![Crates.io](https://img.shields.io/crates/d/git-time-machine.svg?style=flat-square)](https://crates.io/crates/git-time-machine) |
 | **[repo-whisperer](https://github.com/dinakars777/repo-whisperer)** 🪄 | Analyzes repository DNA to generate perfect `.cursorrules` AI instruction files | [![npm](https://img.shields.io/npm/dm/@dinakars777/repo-whisperer.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/repo-whisperer) |
 | **[cmd-rescue](https://github.com/dinakars777/cmd-rescue)** 🛟 | AI-powered CLI wrapper that diagnoses and fixes failing terminal commands | [![npm](https://img.shields.io/npm/dm/@dinakars777/cmd-rescue.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cmd-rescue) |
 | **[cache-llm](https://github.com/dinakars777/cache-llm)** 🧠 | Local proxy server that caches LLM API calls to save money during development | [![npm](https://img.shields.io/npm/dm/@dinakars777/cache-llm.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cache-llm) |
@@ -110,6 +111,7 @@ Meticulously crafted React UI component library focused on modern Glassmorphism 
 
 ## 🔧 Tech Stack
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
