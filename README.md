@@ -75,6 +75,7 @@ Visual drag-and-drop workspace for generating pixel-perfect GitHub README files.
 
 | Tool | Description | Downloads |
 |------|-------------|-----------|
+| **[ai-code-guardian](https://github.com/dinakars777/ai-code-guardian)** 🛡️ | Security scanner for AI-generated code. Detects vulnerabilities before you commit | [![Crates.io](https://img.shields.io/crates/d/ai-code-guardian.svg?style=flat-square)](https://crates.io/crates/ai-code-guardian) |
 | **[git-time-machine](https://github.com/dinakars777/git-time-machine)** 🕰️ | Undo ANY git mistake in 3 seconds with a beautiful TUI. Makes git reflog actually usable | [![Crates.io](https://img.shields.io/crates/d/git-time-machine.svg?style=flat-square)](https://crates.io/crates/git-time-machine) |
 | **[repo-whisperer](https://github.com/dinakars777/repo-whisperer)** 🪄 | Analyzes repository DNA to generate perfect `.cursorrules` AI instruction files | [![npm](https://img.shields.io/npm/dm/@dinakars777/repo-whisperer.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/repo-whisperer) |
 | **[cmd-rescue](https://github.com/dinakars777/cmd-rescue)** 🛟 | AI-powered CLI wrapper that diagnoses and fixes failing terminal commands | [![npm](https://img.shields.io/npm/dm/@dinakars777/cmd-rescue.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cmd-rescue) |
