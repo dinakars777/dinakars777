@@ -21,7 +21,7 @@ Currently exploring practical applications of LLM-based tools in engineering wor
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 **[create-nexus](https://github.com/dinakars777/create-nexus)** 🧠  
 [![npm](https://img.shields.io/npm/v/@dinakars777/create-nexus.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/create-nexus)
@@ -30,13 +30,22 @@ Currently exploring practical applications of LLM-based tools in engineering wor
 The Ultimate Agent-Native Boilerplate Generator. Scaffolds Next.js + Hono + Drizzle with a built-in `.agent/` control plane designed to govern AI coding agents without hallucinations.
 
 </td>
-<td width="50%">
+<td width="33%">
 
 **[neuro-forge](https://github.com/dinakars777/neuro-forge)** 🧠🔨  
 [![npm](https://img.shields.io/npm/v/@dinakars777/neuro-forge.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/neuro-forge)
 [![downloads](https://img.shields.io/npm/dm/@dinakars777/neuro-forge.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/neuro-forge)
 
 AI Context Compressor with real token counting, `--since` flag, custom prompts, and smart file targeting. Instantly compress your codebase for LLMs.
+
+</td>
+<td width="33%">
+
+**[repo-whisperer](https://github.com/dinakars777/repo-whisperer)** 🪄  
+[![npm](https://img.shields.io/npm/v/@dinakars777/repo-whisperer.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/repo-whisperer)
+[![downloads](https://img.shields.io/npm/dm/@dinakars777/repo-whisperer.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/repo-whisperer)
+
+Analyzes repository DNA to generate perfect `.cursorrules` AI instruction files. Makes AI coding assistants instantly adopt your project's conventions.
 
 </td>
 </tr>
@@ -79,11 +88,10 @@ Visual drag-and-drop workspace for generating pixel-perfect GitHub README files.
 
 | Tool | Description | Downloads |
 |------|-------------|-----------|
-| **[ai-code-guardian](https://github.com/dinakars777/ai-code-guardian)** 🛡️ | Security scanner for AI-generated code. Detects vulnerabilities before you commit | [![Crates.io](https://img.shields.io/crates/d/ai-code-guardian.svg?style=flat-square)](https://crates.io/crates/ai-code-guardian) |
-| **[git-time-machine](https://github.com/dinakars777/git-time-machine)** 🕰️ | Undo ANY git mistake in 3 seconds with a beautiful TUI. Makes git reflog actually usable | [![Crates.io](https://img.shields.io/crates/d/git-time-machine.svg?style=flat-square)](https://crates.io/crates/git-time-machine) |
-| **[repo-whisperer](https://github.com/dinakars777/repo-whisperer)** 🪄 | Analyzes repository DNA to generate perfect `.cursorrules` AI instruction files | [![npm](https://img.shields.io/npm/dm/@dinakars777/repo-whisperer.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/repo-whisperer) |
-| **[cmd-rescue](https://github.com/dinakars777/cmd-rescue)** 🛟 | AI-powered CLI wrapper that diagnoses and fixes failing terminal commands | [![npm](https://img.shields.io/npm/dm/@dinakars777/cmd-rescue.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cmd-rescue) |
-| **[cache-llm](https://github.com/dinakars777/cache-llm)** 🧠 | Local proxy server that caches LLM API calls to save money during development | [![npm](https://img.shields.io/npm/dm/@dinakars777/cache-llm.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cache-llm) |
+| **[git-time-machine](https://github.com/dinakars777/git-time-machine)** 🕰️ | Visual git reflog TUI. Undo ANY git mistake in 3 seconds with vim keybindings | [![Crates.io](https://img.shields.io/crates/d/git-time-machine.svg?style=flat-square)](https://crates.io/crates/git-time-machine) |
+| **[ai-code-guardian](https://github.com/dinakars777/ai-code-guardian)** 🛡️ | Security scanner for code. Detects vulnerabilities, secrets, and patterns before you commit | [![Crates.io](https://img.shields.io/crates/d/ai-code-guardian.svg?style=flat-square)](https://crates.io/crates/ai-code-guardian) |
+| **[cmd-rescue](https://github.com/dinakars777/cmd-rescue)** 🛟 | AI-powered CLI wrapper that diagnoses and auto-fixes failing terminal commands | [![npm](https://img.shields.io/npm/dm/@dinakars777/cmd-rescue.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cmd-rescue) |
+| **[cache-llm](https://github.com/dinakars777/cache-llm)** 🧠 | Local proxy that caches LLM API calls to save money during development | [![npm](https://img.shields.io/npm/dm/@dinakars777/cache-llm.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cache-llm) |
 | **[api-ping](https://github.com/dinakars777/api-ping)** ⚡ | Lightning-fast CLI to hit API endpoints with response timing and JSON highlighting | [![npm](https://img.shields.io/npm/dm/@dinakars777/api-ping.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/api-ping) |
 | **[port-sniper](https://github.com/dinakars777/port-sniper)** 🎯 | Identify and terminate processes hogging development ports | [![npm](https://img.shields.io/npm/dm/@dinakars777/port-sniper.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/port-sniper) |
 | **[blackhole](https://github.com/dinakars777/blackhole)** 🕳️ | Scan and delete massive unused `node_modules` folders to reclaim disk space | [![npm](https://img.shields.io/npm/dm/@dinakars777/blackhole.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/blackhole) |
@@ -118,9 +126,11 @@ Meticulously crafted React UI component library focused on modern Glassmorphism 
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
 ![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat&logo=hono&logoColor=white)
