@@ -1,6 +1,10 @@
 # Hi there, I'm Dinakar 👋
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dinakars777&color=blue" alt="Profile Views" />
+</p>
+
+<p align="left">
   <a href="https://x.com/sdinakar7"><img src="https://img.shields.io/badge/-%40sdinakar7-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/dinakar-sarbada-4a39b733/"><img src="https://img.shields.io/badge/-Dinakar%20Sarbada-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
