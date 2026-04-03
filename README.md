@@ -97,6 +97,8 @@ Visual drag-and-drop workspace for generating pixel-perfect GitHub README files.
 | **[blackhole](https://github.com/dinakars777/blackhole)** 🕳️ | Scan and delete massive unused `node_modules` folders to reclaim disk space | [![npm](https://img.shields.io/npm/dm/@dinakars777/blackhole.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/blackhole) |
 | **[standup-hero](https://github.com/dinakars777/standup-hero)** 🦸‍♂️ | Generate daily standup notes from Git history automatically | [![npm](https://img.shields.io/npm/dm/@dinakars777/standup-hero.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/standup-hero) |
 | **[env-doctor](https://github.com/dinakars777/env-doctor)** 🩺 | Diagnose and fix missing environment variables from `.env.example` | [![npm](https://img.shields.io/npm/dm/@dinakars777/env-doctor.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/env-doctor) |
+| **[rage-quit](https://github.com/dinakars777/rage-quit)** 🎤💥 | The most dramatic way to leave a project. Terminal animations, resignation letters, and optional destruction | [![Crates.io](https://img.shields.io/crates/d/rage-quit-cli.svg?style=flat-square)](https://crates.io/crates/rage-quit-cli) |
+| **[moody](https://github.com/dinakars777/moody)** 🫠 | Your MacBook has feelings. Every hardware event triggers a personality response | [![GitHub](https://img.shields.io/github/stars/dinakars777/moody?style=flat-square)](https://github.com/dinakars777/moody) |
 
 ---
 
@@ -125,6 +127,7 @@ Meticulously crafted React UI component library focused on modern Glassmorphism 
 ## 🔧 Tech Stack
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
