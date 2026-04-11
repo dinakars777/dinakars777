@@ -19,11 +19,21 @@ Currently exploring practical applications of LLM-based tools in engineering wor
 
 ### 🤝 Maintainer
 
+<table>
+<tr>
+<td width="100%">
+
 **[wacli](https://github.com/steipete/wacli)** 📱  
 [![GitHub stars](https://img.shields.io/github/stars/steipete/wacli?style=flat-square)](https://github.com/steipete/wacli)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/steipete/wacli)
 
 WhatsApp CLI built on whatsmeow. Sync message history, search offline, send messages, and manage contacts/groups from the terminal.
+
+_Created by the GOAT [Peter Steinberger](https://github.com/steipete)._
+
+</td>
+</tr>
+</table>
 
 ### 🤖 AI-Native Infrastructure
 
