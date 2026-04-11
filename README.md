@@ -17,19 +17,15 @@ Currently exploring practical applications of LLM-based tools in engineering wor
 
 ## 🚀 Featured Projects
 
+**Maintainer of [wacli](https://github.com/steipete/wacli)** 📱  
+[![GitHub stars](https://img.shields.io/github/stars/steipete/wacli?style=flat-square)](https://github.com/steipete/wacli)
+
+WhatsApp CLI - sync, search, send messages from the terminal.
+
 ### 🤖 AI-Native Infrastructure
 
 <table>
 <tr>
-<td width="33%">
-
-**[create-nexus](https://github.com/dinakars777/create-nexus)** 🧠  
-[![npm](https://img.shields.io/npm/v/@dinakars777/create-nexus.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/create-nexus)
-[![downloads](https://img.shields.io/npm/dm/@dinakars777/create-nexus.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/create-nexus)
-
-The Ultimate Agent-Native Boilerplate Generator. Scaffolds Next.js + Hono + Drizzle with a built-in `.agent/` control plane designed to govern AI coding agents without hallucinations.
-
-</td>
 <td width="33%">
 
 **[neuro-forge](https://github.com/dinakars777/neuro-forge)** 🧠🔨  
@@ -46,6 +42,15 @@ AI Context Compressor with real token counting, `--since` flag, custom prompts, 
 [![downloads](https://img.shields.io/npm/dm/@dinakars777/repo-whisperer.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/repo-whisperer)
 
 Analyzes repository DNA to generate perfect `.cursorrules` AI instruction files. Makes AI coding assistants instantly adopt your project's conventions.
+
+</td>
+<td width="33%">
+
+**[create-nexus](https://github.com/dinakars777/create-nexus)** 🧠  
+[![npm](https://img.shields.io/npm/v/@dinakars777/create-nexus.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/create-nexus)
+[![downloads](https://img.shields.io/npm/dm/@dinakars777/create-nexus.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/create-nexus)
+
+The Ultimate Agent-Native Boilerplate Generator. Scaffolds Next.js + Hono + Drizzle with a built-in `.agent/` control plane designed to govern AI coding agents without hallucinations.
 
 </td>
 </tr>
@@ -88,7 +93,6 @@ Visual drag-and-drop workspace for generating pixel-perfect GitHub README files.
 
 | Tool | Description | Downloads |
 |------|-------------|-----------|
-| **[wacli](https://github.com/steipete/wacli)** 📱 | WhatsApp CLI - sync, search, send messages. Maintainer | [![GitHub](https://img.shields.io/github/stars/steipete/wacli?style=flat-square)](https://github.com/steipete/wacli) |
 | **[git-time-machine](https://github.com/dinakars777/git-time-machine)** 🕰️ | Visual git reflog TUI. Undo ANY git mistake in 3 seconds with vim keybindings | [![Crates.io](https://img.shields.io/crates/d/git-time-machine.svg?style=flat-square)](https://crates.io/crates/git-time-machine) |
 | **[ai-code-guardian](https://github.com/dinakars777/ai-code-guardian)** 🛡️ | Security scanner for code. Detects vulnerabilities, secrets, and patterns before you commit | [![Crates.io](https://img.shields.io/crates/d/ai-code-guardian.svg?style=flat-square)](https://crates.io/crates/ai-code-guardian) |
 | **[cmd-rescue](https://github.com/dinakars777/cmd-rescue)** 🛟 | AI-powered CLI wrapper that diagnoses and auto-fixes failing terminal commands | [![npm](https://img.shields.io/npm/dm/@dinakars777/cmd-rescue.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cmd-rescue) |
