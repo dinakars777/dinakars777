@@ -88,6 +88,7 @@ Visual drag-and-drop workspace for generating pixel-perfect GitHub README files.
 
 | Tool | Description | Downloads |
 |------|-------------|-----------|
+| **[wacli](https://github.com/steipete/wacli)** 📱 | WhatsApp CLI - sync, search, send messages. Maintainer | [![GitHub](https://img.shields.io/github/stars/steipete/wacli?style=flat-square)](https://github.com/steipete/wacli) |
 | **[git-time-machine](https://github.com/dinakars777/git-time-machine)** 🕰️ | Visual git reflog TUI. Undo ANY git mistake in 3 seconds with vim keybindings | [![Crates.io](https://img.shields.io/crates/d/git-time-machine.svg?style=flat-square)](https://crates.io/crates/git-time-machine) |
 | **[ai-code-guardian](https://github.com/dinakars777/ai-code-guardian)** 🛡️ | Security scanner for code. Detects vulnerabilities, secrets, and patterns before you commit | [![Crates.io](https://img.shields.io/crates/d/ai-code-guardian.svg?style=flat-square)](https://crates.io/crates/ai-code-guardian) |
 | **[cmd-rescue](https://github.com/dinakars777/cmd-rescue)** 🛟 | AI-powered CLI wrapper that diagnoses and auto-fixes failing terminal commands | [![npm](https://img.shields.io/npm/dm/@dinakars777/cmd-rescue.svg?style=flat-square)](https://www.npmjs.com/package/@dinakars777/cmd-rescue) |
