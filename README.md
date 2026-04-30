@@ -21,7 +21,7 @@ Currently exploring practical applications of LLM-based tools in engineering wor
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 **[wacli](https://github.com/steipete/wacli)** 📱  
 [![GitHub stars](https://img.shields.io/github/stars/steipete/wacli?style=flat-square)](https://github.com/steipete/wacli)
@@ -30,6 +30,15 @@ Currently exploring practical applications of LLM-based tools in engineering wor
 WhatsApp CLI built on whatsmeow. Sync message history, search offline, send messages, and manage contacts/groups from the terminal.
 
 _Created by the GOAT [Peter Steinberger](https://github.com/steipete)._
+
+</td>
+<td width="50%">
+
+**[git-time-machine](https://github.com/dinakars777/git-time-machine)** 🕰️  
+[![Crates.io](https://img.shields.io/crates/d/git-time-machine.svg?style=flat-square)](https://crates.io/crates/git-time-machine)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/dinakars777/git-time-machine)
+
+Visual git reflog TUI with vim keybindings. Undo ANY git mistake in 3 seconds. Built with Rust for blazing-fast performance.
 
 </td>
 </tr>
