@@ -41,7 +41,7 @@ Local-first desktop/web app for browsing AI coding assistant history across proj
 </td>
 <td width="33%">
 
-**[wacli](https://github.com/steipete/wacli)** 📱  
+**[openclaw/wacli](https://github.com/steipete/wacli)** 📱  
 [![GitHub stars](https://img.shields.io/github/stars/steipete/wacli?style=flat-square)](https://github.com/steipete/wacli)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/steipete/wacli)
 
