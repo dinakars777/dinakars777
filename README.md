@@ -21,7 +21,7 @@ Currently exploring practical applications of LLM-based tools in engineering wor
 
 <table>
 <tr>
-<td width="25%">
+<td width="33%">
 
 **[openclaw/wacli](https://github.com/steipete/wacli)** 📱  
 [![GitHub stars](https://img.shields.io/github/stars/steipete/wacli?style=flat-square)](https://github.com/steipete/wacli)
@@ -32,7 +32,7 @@ WhatsApp CLI built on whatsmeow. Sync message history, search offline, send mess
 _Created by [Peter Steinberger](https://github.com/steipete)._
 
 </td>
-<td width="25%">
+<td width="33%">
 
 **[openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)** 🧹  
 [![GitHub stars](https://img.shields.io/github/stars/openclaw/clawsweeper?style=flat-square)](https://github.com/openclaw/clawsweeper)
@@ -43,7 +43,7 @@ AI-powered, conservative GitHub maintenance bot. Scans issues/PRs, drafts safe c
 _Contributor to safe triage rules and verification workflows._
 
 </td>
-<td width="25%">
+<td width="33%">
 
 **[openclaw/gogcli](https://github.com/openclaw/gogcli)** ⚙️  
 [![GitHub stars](https://img.shields.io/github/stars/openclaw/gogcli?style=flat-square)](https://github.com/openclaw/gogcli)
@@ -54,7 +54,9 @@ Google Workspace terminal client for agents and users. Manage Gmail, Calendar, D
 _Contributor to authentication flows and runtime permissions._
 
 </td>
-<td width="25%">
+</tr>
+<tr>
+<td width="33%">
 
 **[openclaw-triage-skill](https://github.com/dinakars777/openclaw-triage-skill)** 🤖  
 [![GitHub stars](https://img.shields.io/github/stars/dinakars777/openclaw-triage-skill?style=flat-square)](https://github.com/dinakars777/openclaw-triage-skill)
@@ -63,9 +65,7 @@ _Contributor to authentication flows and runtime permissions._
 AI agent skill for automated SRE-style root cause analysis, log parsing, and pipeline failure triage.
 
 </td>
-</tr>
-<tr>
-<td width="25%">
+<td width="33%">
 
 **[pr-triage-action](https://github.com/dinakars777/pr-triage-action)** ⚡  
 [![GitHub stars](https://img.shields.io/github/stars/dinakars777/pr-triage-action?style=flat-square)](https://github.com/dinakars777/pr-triage-action)
@@ -74,7 +74,20 @@ AI agent skill for automated SRE-style root cause analysis, log parsing, and pip
 Lightweight GitHub Action that automates PR classification, risk assessment, and contributor profiling via `gh` CLI.
 
 </td>
-<td width="25%">
+<td width="33%">
+
+**[last30days-skill](https://github.com/mvanhorn/last30days-skill)** 📅  
+[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square)](https://github.com/mvanhorn/last30days-skill)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mvanhorn/last30days-skill)
+
+AI agent skill for real-time, cross-platform research and news synthesis across X, Reddit, Polymarket, and YouTube.
+
+_Active contributor and top contributor._
+
+</td>
+</tr>
+<tr>
+<td width="33%">
 
 **[git-time-machine](https://github.com/dinakars777/git-time-machine)** 🕰️  
 [![Crates.io](https://img.shields.io/crates/d/git-time-machine.svg?style=flat-square)](https://crates.io/crates/git-time-machine)
@@ -83,16 +96,16 @@ Lightweight GitHub Action that automates PR classification, risk assessment, and
 Visual git reflog TUI with vim keybindings. Undo ANY git mistake in 3 seconds. Built with Rust for blazing-fast performance.
 
 </td>
-<td width="25%">
+<td width="33%">
 
 **[chat-visualizer](https://github.com/dinakars777/chat-visualizer)** 💬  
-[![GitHub stars](https://img.shields.io/github/stars/dinakars777/chat-visualizer?style=flat-square)](https://github.com/dinakars777/chat-visualizer)
+[![GitHub stars](https://img.shields.io/github/stars/chat-visualizer?style=flat-square)](https://github.com/dinakars777/chat-visualizer)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/dinakars777/chat-visualizer)
 
 Local-first desktop/web app for browsing AI coding assistant history across projects.
 
 </td>
-<td width="25%">
+<td width="33%">
 
 **[cli-printing-press](https://github.com/mvanhorn/cli-printing-press)** 🖨️  
 [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/cli-printing-press?style=flat-square)](https://github.com/mvanhorn/cli-printing-press)
@@ -100,7 +113,7 @@ Local-first desktop/web app for browsing AI coding assistant history across proj
 
 Go-based tool to generate agent-ready CLIs and MCP servers from APIs, websites, OpenAPI specs, and HAR files.
 
-_Actively contributing to the generator and [printing-press-library](https://github.com/mvanhorn/printing-press-library) (top contributor in the last 30 days)._
+_Actively contributing to the generator and [printing-press-library](https://github.com/mvanhorn/printing-press-library)._
 
 </td>
 </tr>
